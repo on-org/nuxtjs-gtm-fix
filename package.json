@@ -1,8 +1,8 @@
 {
   "name": "nuxtjs-gtm-fix",
-  "version": "2.3.2",
+  "version": "2.3.2.1",
   "description": "Google Tag Manager Module for Nuxt.js",
-  "repository": "nuxt-community/gtm-module",
+  "repository": "on-org/nuxtjs-gtm-fix",
   "license": "MIT",
   "main": "lib/module.js",
   "files": [

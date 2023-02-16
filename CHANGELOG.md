@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.3.2.1](https://github.com/nuxt-community/gtm-module/compare/v2.3.2...v2.3.2.1) (2020-07-23)
+
+
+### Bug Fixes
+
+* **plugin:** FIXED memory leek ([#132](https://github.com/nuxt-community/gtm-module/issues/132)) ([498f9bd](https://github.com/nuxt-community/gtm-module/commit/498f9bd317469e143b81e34c36b48abc8d1ca5be))
+
+
 ### [2.3.2](https://github.com/nuxt-community/gtm-module/compare/v2.3.1...v2.3.2) (2020-07-23)
 
 
