@@ -8,6 +8,8 @@
 
 > Google Tag Manager Module for Nuxt.js
 
+!!! FIXED memory leek
+
 [📖 **Release Notes**](./CHANGELOG.md)
 
 ℹ️ If coming from v1 (`@nuxtjs/google-tag-manager`) please read v2 [release notes](https://github.com/nuxt-community/gtm-module/releases/tag/v2.0.0).
